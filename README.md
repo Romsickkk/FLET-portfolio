@@ -17,7 +17,7 @@
 1. **Клонируйте репозиторий**:
    ```bash
    git clone https://github.com/Romsickkk/FLET-portfolio
-   cd portfolio-app
+   
 
 2. **Установите зависимости: Для установки зависимостей используйте npm или yarn. Например**:
     ```bash
