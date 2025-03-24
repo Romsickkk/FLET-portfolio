@@ -33,4 +33,6 @@
 
 
 Приложение будет доступно по адресу http://localhost:3000.
-
+![Screenshot_54](https://github.com/user-attachments/assets/f9706f79-883b-4576-9483-d224a2c8a29a)
+![Screenshot_55](https://github.com/user-attachments/assets/2c8a9016-8ff7-47ac-be7d-e555799230a5)
+![Screenshot_56](https://github.com/user-attachments/assets/236ec30c-9266-4a15-a5e6-b6b9f0a1e9eb)
